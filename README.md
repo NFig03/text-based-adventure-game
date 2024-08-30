@@ -2,10 +2,10 @@
 ## Overview
 This text based adventure game entertains players by allowing them to explore a facility, and gather various items to save the world from a zombie apocalypse. Should the player attempt to escape before acquiring all of the items, they are zombified and result to a game over. The game challenges players with its labyrinthine map and requires strategic exploration without the aid of a mini-map.
 ## Features
--Text based gameplay
--No mini-map to increase the challenge
--(7) Gatherable Items
--Labyrinth style map to explore
+ - Text based gameplay
+ - No mini-map to increase the challenge
+ - (7) Gatherable Items
+ - Labyrinth style map to explore
 ## Prerequisite(s)
  -Ensure your system has the latest version of Python installed
 ## Installation
